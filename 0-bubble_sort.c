@@ -6,8 +6,6 @@
  * @size: the size of the array
  */
 
-#include <stdio.h>
-
 void bubble_sort(int *array, size_t size)
 {
 	int temp;
